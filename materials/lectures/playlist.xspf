@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>https://r3---sn-jxnoxu-2gbe.googlevideo.com/videoplayback?expire=1574808499&amp;ei=U1fdXeHKHovJxwK125u4CA&amp;ip=2001%3A718%3A1e03%3A5128%3A2568%3A3612%3A2fd8%3Ac4c&amp;id=o-AI-U7H9rGj99AzxkevAlEKaZH-V8KsOHdqRmBMiGMbHk&amp;itag=22&amp;source=youtube&amp;requiressl=yes&amp;mm=31%2C29&amp;mn=sn-jxnoxu-2gbe%2Csn-2gb7sn7s&amp;ms=au%2Crdu&amp;mv=m&amp;mvi=2&amp;pl=32&amp;initcwndbps=1553750&amp;mime=video%2Fmp4&amp;ratebypass=yes&amp;dur=5587.324&amp;lmt=1571176741063530&amp;mt=1574786773&amp;fvip=3&amp;fexp=23842630&amp;c=WEB&amp;txp=2316222&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cratebypass%2Cdur%2Clmt&amp;sig=ALgxI2wwRgIhAJ-ymkk8YKUuOC-xlgt6LVw9oymr_QqZDcGR0S_FyNAxAiEAsgS-hHSPSiKALuo7fVKZryOdiFJgTePxLcs8Gv2me-o%3D&amp;lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&amp;lsig=AHylml4wRQIgT59aNIQPTCk2kcML2qAlGSgrwk9e-YQ3tfV6P83p0WYCIQCw7IxIMjmU_Kou9zWN9l6YrNRoCYTf3nB2uMHeV5bF2A%3D%3D</location>
+			<title>ZS 2019/20: NSWI120, 01. přednáška (Principy počítačů)</title>
+			<annotation>Toto video slouží pouze jako studijní materiál pro studenty MFF UK. Video, ani odkazy na něj, dále nešiřte!&lt;br /&gt;Copyright (c) 2019 Pavel Ježek, Matematicko-fyzikální fakulta, Univerzita Karlova, Praha</annotation>
+			<info>https://www.youtube.com/watch?v=nL93qIxszrk&amp;feature=youtu.be</info>
+			<image>file:///home/wiki/.cache/vlc/art/arturl/b4f7c86ee27b45ff6f713df7849583e4/art</image>
+			<duration>5587208</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://r3---sn-jxnoxu-2gbe.googlevideo.com/videoplayback?expire=1574808479&amp;ei=P1fdXaD6E8PWV9byk-gK&amp;ip=2001%3A718%3A1e03%3A5128%3A2568%3A3612%3A2fd8%3Ac4c&amp;id=o-AG69AgKQTIxQ-LIaxrc5R6HThZnYnbkSuwJZQgEqqKVp&amp;itag=22&amp;source=youtube&amp;requiressl=yes&amp;mm=31%2C29&amp;mn=sn-jxnoxu-2gbe%2Csn-2gb7sn7k&amp;ms=au%2Crdu&amp;mv=m&amp;mvi=2&amp;pl=32&amp;initcwndbps=1553750&amp;mime=video%2Fmp4&amp;ratebypass=yes&amp;dur=5619.716&amp;lmt=1571179153918872&amp;mt=1574786773&amp;fvip=6&amp;fexp=23842630&amp;c=WEB&amp;txp=2316222&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cratebypass%2Cdur%2Clmt&amp;sig=ALgxI2wwRgIhAIr1cBr4UhI1LjQ_K2p-wyezIZecXhH4NqAjEm-choxyAiEAoMiAdT1_cGWcVZhtjZbU_8rmLRSg9S1TEkhOTxcVuu8%3D&amp;lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&amp;lsig=AHylml4wRAIgbnlusjSZ6Yq-THhv53wdt8gIRYikizcm86FYjmdf_R0CICM_I6XWsVekMJwyPDPAhLiT7LfGlD7C2Pea-oBWbUA7</location>
+			<title>ZS 2019/20: NSWI120, 02. přednáška (Principy počítačů)</title>
+			<annotation>Toto video slouží pouze jako studijní materiál pro studenty MFF UK. Video, ani odkazy na něj, dále nešiřte!&lt;br /&gt;Copyright (c) 2019 Pavel Ježek, Matematicko-fyzikální fakulta, Univerzita Karlova, Praha</annotation>
+			<info>https://www.youtube.com/watch?v=N112dIlaIMs&amp;feature=youtu.be</info>
+			<image>file:///home/wiki/.cache/vlc/art/arturl/7ef7fe2aa8f3c99fd2496795e76fa8b2/art</image>
+			<duration>5619646</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://r2---sn-jxnoxu-2gbe.googlevideo.com/videoplayback?expire=1574808508&amp;ei=XFfdXbHRB5XAVrzrraAH&amp;ip=2001%3A718%3A1e03%3A5128%3A2568%3A3612%3A2fd8%3Ac4c&amp;id=o-AGMBlCd3thmtWHIDDRXRf7xIhg9eFtbcy1Et_bkTo_LT&amp;itag=22&amp;source=youtube&amp;requiressl=yes&amp;mm=31%2C29&amp;mn=sn-jxnoxu-2gbe%2Csn-2gb7sn7k&amp;ms=au%2Crdu&amp;mv=m&amp;mvi=1&amp;pl=32&amp;initcwndbps=1553750&amp;mime=video%2Fmp4&amp;ratebypass=yes&amp;dur=5627.657&amp;lmt=1571734096151029&amp;mt=1574786773&amp;fvip=2&amp;fexp=23842630&amp;c=WEB&amp;txp=2316222&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cratebypass%2Cdur%2Clmt&amp;sig=ALgxI2wwRgIhAKUT3V_6lY1iL0Jbjz2JtlojlMDyjKBwVB8BVP16k4icAiEAsPXQx881FvLlGsKz1J6QgNCpMxTOaWsk0jzxolNpkEg%3D&amp;lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&amp;lsig=AHylml4wRAIgIzekUevjNMoR0H4ctDrzQOoyDIj4vqwH26264LtWrgMCICobj8cQpJnDqXwRmfc_WxG94aYF07VrFs0uW87QgfBX</location>
+			<title>ZS 2019/20: NSWI120, 03. přednáška (Principy počítačů)</title>
+			<annotation>Toto video slouží pouze jako studijní materiál pro studenty MFF UK. Video, ani odkazy na něj, dále nešiřte!&lt;br /&gt;Copyright (c) 2019 Pavel Ježek, Matematicko-fyzikální fakulta, Univerzita Karlova, Praha</annotation>
+			<info>https://www.youtube.com/watch?v=mumyiiNFL7M&amp;feature=youtu.be</info>
+			<image>file:///home/wiki/.cache/vlc/art/arturl/49fd496cdaadabbc87db1fe71e8fb257/art</image>
+			<duration>5627541</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://r1---sn-jxnoxu-2gbe.googlevideo.com/videoplayback?expire=1574808514&amp;ei=YlfdXYmtBJTbmwfNnraYAw&amp;ip=2001%3A718%3A1e03%3A5128%3A2568%3A3612%3A2fd8%3Ac4c&amp;id=o-ADZ_DbHa5iwnQRlw7Dw88vy4JdqaCMUF9Ep1dFO1u_IE&amp;itag=22&amp;source=youtube&amp;requiressl=yes&amp;mm=31%2C29&amp;mn=sn-jxnoxu-2gbe%2Csn-2gb7sn7k&amp;ms=au%2Crdu&amp;mv=m&amp;mvi=0&amp;pl=32&amp;initcwndbps=1546250&amp;mime=video%2Fmp4&amp;ratebypass=yes&amp;dur=5684.082&amp;lmt=1572599725804974&amp;mt=1574786863&amp;fvip=1&amp;fexp=23842630&amp;c=WEB&amp;txp=2316222&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cratebypass%2Cdur%2Clmt&amp;sig=ALgxI2wwRQIgLQz8DCdzSSgjUQh4IoDjiBzKnEEnz99yszRCc7StDAQCIQCnZHvxv_zTZHDbj56rsuBEcw5x-q3aIk6LmWUCyS79gg%3D%3D&amp;lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&amp;lsig=AHylml4wRQIgfg3g3Uj2MEGwYm5WS-Ma9AUCpfLB-Wg_sLHxQOToISECIQDzSTuqtHaHwFhqPZEdgNenQO2TZzn7VQpwfg9xUkQMBA%3D%3D</location>
+			<title>ZS 2019/20: NSWI120, 04. přednáška (Principy počítačů)</title>
+			<annotation>Toto video slouží pouze jako studijní materiál pro studenty MFF UK. Video, ani odkazy na něj, dále nešiřte!&lt;br /&gt;Copyright (c) 2019 Pavel Ježek, Matematicko-fyzikální fakulta, Univerzita Karlova, Praha</annotation>
+			<info>https://www.youtube.com/watch?v=buyf8My8KkI&amp;feature=youtu.be</info>
+			<image>file:///home/wiki/.cache/vlc/art/arturl/f7435738d547fc5e6681b2ba6efee5b4/art</image>
+			<duration>5683966</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://r3---sn-jxnoxu-2gbe.googlevideo.com/videoplayback?expire=1574808517&amp;ei=ZVfdXZ_QK8Ha1gbI1LTYBg&amp;ip=2001%3A718%3A1e03%3A5128%3A2568%3A3612%3A2fd8%3Ac4c&amp;id=o-AMc542MgXFmSk1xr7JslBTzjHpFRrJR6jXJ1OPNR367s&amp;itag=22&amp;source=youtube&amp;requiressl=yes&amp;mm=31%2C29&amp;mn=sn-jxnoxu-2gbe%2Csn-2gb7sn7k&amp;ms=au%2Crdu&amp;mv=m&amp;mvi=2&amp;pcm2cms=yes&amp;pl=32&amp;initcwndbps=1553750&amp;mime=video%2Fmp4&amp;ratebypass=yes&amp;dur=5428.407&amp;lmt=1573190290717774&amp;mt=1574786773&amp;fvip=3&amp;fexp=23842630&amp;c=WEB&amp;txp=2316222&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cratebypass%2Cdur%2Clmt&amp;sig=ALgxI2wwRQIgH8SAZirZmRmUUol8rqtkclpQyxXY3Aagq2NoS-07OgACIQDCIYYqjOwecdsyToFQPwjDst1EM3i9CKtWBKVQaq9oMA%3D%3D&amp;lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&amp;lsig=AHylml4wRAIgcMHTujDJnoj4k2AWpb1_F3LJI9gOyyoqBGoENm64QtACIDa3XBZw-BJggIDy8xlmzKBKUTSgylLddf4IoVIzar1l</location>
+			<title>ZS 2019/20: NSWI120, 05. přednáška (Principy počítačů)</title>
+			<annotation>Toto video slouží pouze jako studijní materiál pro studenty MFF UK. Video, ani odkazy na něj, dále nešiřte!&lt;br /&gt;Copyright (c) 2019 Pavel Ježek, Matematicko-fyzikální fakulta, Univerzita Karlova, Praha</annotation>
+			<info>https://www.youtube.com/watch?v=_meq5MJblFo&amp;feature=youtu.be</info>
+			<image>file:///home/wiki/.cache/vlc/art/arturl/8981b5304cca9f1969e7c5082be2899a/art</image>
+			<duration>5428337</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://r1---sn-jxnoxu-2gbe.googlevideo.com/videoplayback?expire=1574808521&amp;ei=aVfdXdCYEpKoVpPhlNgE&amp;ip=2001%3A718%3A1e03%3A5128%3A2568%3A3612%3A2fd8%3Ac4c&amp;id=o-APRGqQAknPzekne3JWYC1z3sCBOlEJwYi6-EZgIspjoG&amp;itag=22&amp;source=youtube&amp;requiressl=yes&amp;mm=31%2C29&amp;mn=sn-jxnoxu-2gbe%2Csn-2gb7sn7s&amp;ms=au%2Crdu&amp;mv=m&amp;mvi=0&amp;pcm2cms=yes&amp;pl=32&amp;initcwndbps=1553750&amp;mime=video%2Fmp4&amp;ratebypass=yes&amp;dur=5452.649&amp;lmt=1573726506243409&amp;mt=1574786773&amp;fvip=5&amp;fexp=23842630&amp;c=WEB&amp;txp=2316222&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cratebypass%2Cdur%2Clmt&amp;sig=ALgxI2wwRQIhAJPBS1GXrhE9xzLHKnmeG7FkA66I16NYjzGOb8TuLhBzAiB4UGssbm_pzh948jERHKkSOyPzO9kJudT5yGm8FANAhw%3D%3D&amp;lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&amp;lsig=AHylml4wRQIhAMin_9lm0LRXMbBi4H2S_0emhzulOMYfaaDGOOT8XK0VAiB6unGmEI0z99l6SmBfiKkC8Q8aH80hztL2aubTv3vVWQ%3D%3D</location>
+			<title>ZS 2019/20: NSWI120, 06. přednáška (Principy počítačů)</title>
+			<annotation>Toto video slouží pouze jako studijní materiál pro studenty MFF UK. Video, ani odkazy na něj, dále nešiřte!&lt;br /&gt;Copyright (c) 2019 Pavel Ježek, Matematicko-fyzikální fakulta, Univerzita Karlova, Praha</annotation>
+			<info>https://www.youtube.com/watch?v=2AoY5wilmjs&amp;feature=youtu.be</info>
+			<image>file:///home/wiki/.cache/vlc/art/arturl/196c8c041a3f49f12999cf67eec571f9/art</image>
+			<duration>5452532</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://r3---sn-jxnoxu-2gbe.googlevideo.com/videoplayback?expire=1574808527&amp;ei=b1fdXdCZBcq_VKHBqqgN&amp;ip=2001%3A718%3A1e03%3A5128%3A2568%3A3612%3A2fd8%3Ac4c&amp;id=o-AJ2DORd46Bk8x_gdBAgsb77MJdmGmvzWx2A0Q7UzslOJ&amp;itag=22&amp;source=youtube&amp;requiressl=yes&amp;mm=31%2C29&amp;mn=sn-jxnoxu-2gbe%2Csn-2gb7sn7r&amp;ms=au%2Crdu&amp;mv=m&amp;mvi=2&amp;pl=32&amp;initcwndbps=1546250&amp;mime=video%2Fmp4&amp;ratebypass=yes&amp;dur=5627.356&amp;lmt=1574234742779498&amp;mt=1574786863&amp;fvip=3&amp;fexp=23842630&amp;c=WEB&amp;txp=2316222&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cratebypass%2Cdur%2Clmt&amp;sig=ALgxI2wwRAIgSfBIrVzb9OdX_NU0vVA6zJn5sLrvNFH68Mu3C4CcEhYCIBV8cCOHp8ncfwFtgtbBv6eAKodz1_yNHKuMvRJZ7lHi&amp;lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&amp;lsig=AHylml4wRQIgQTQRDUtiE96fmHvt_mtMgM0zENCS7lXbm3A0nA2WYE8CIQDnBhxfShgSW7L3oeVfhTodt2UM_mN6YbogFn_yrYrY0Q%3D%3D</location>
+			<title>ZS 2019/20: NSWI120, 07. přednáška (Principy počítačů)</title>
+			<annotation>Toto video slouží pouze jako studijní materiál pro studenty MFF UK. Video, ani odkazy na něj, dále nešiřte!&lt;br /&gt;Copyright (c) 2019 Pavel Ježek, Matematicko-fyzikální fakulta, Univerzita Karlova, Praha</annotation>
+			<info>https://www.youtube.com/watch?v=awGKgyk0bC4&amp;feature=youtu.be</info>
+			<image>file:///home/wiki/.cache/vlc/art/arturl/57cb575dffa56466d09d732779ec4b2e/art</image>
+			<duration>5627286</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://r1---sn-jxnoxu-2gbe.googlevideo.com/videoplayback?expire=1574808529&amp;ei=cVfdXZfoL-PvxgLh6oPICA&amp;ip=2001%3A718%3A1e03%3A5128%3A2568%3A3612%3A2fd8%3Ac4c&amp;id=o-AP5id0Qw1EbuuVUh-t_xAJh380IX6Nwq3qAcZRL6mhNB&amp;itag=22&amp;source=youtube&amp;requiressl=yes&amp;mm=31%2C29&amp;mn=sn-jxnoxu-2gbe%2Csn-2gb7sn7r&amp;ms=au%2Crdu&amp;mv=m&amp;mvi=0&amp;pl=32&amp;initcwndbps=1553750&amp;mime=video%2Fmp4&amp;ratebypass=yes&amp;dur=5516.387&amp;lmt=1574514967599009&amp;mt=1574786773&amp;fvip=4&amp;fexp=23842630&amp;c=WEB&amp;txp=2316222&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cratebypass%2Cdur%2Clmt&amp;sig=ALgxI2wwRAIgfvHlVZi6QYbDAmrfvUBnFnY6OFfgYclie5L58XYF2xkCIEnwaUDbJ2bC6kFHqpGHWNrL6N-5DHd_xDvCO8G8PZri&amp;lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&amp;lsig=AHylml4wRQIhAJYt3Iv2BELDKF-m3TmWnzxzBGqVStEWXRwm8_fLeCQfAiAYOe6T_BfDzn4nOAs7CLz6jjlh42xydHNKP2QN3Tq0EA%3D%3D</location>
+			<title>ZS 2019/20: NSWI120, ctvrteční paralelka 08. přednáška (Principy počítačů)</title>
+			<annotation>Toto video slouží pouze jako studijní materiál pro studenty MFF UK. Video, ani odkazy na něj, dále nešiřte!&lt;br /&gt;Copyright (c) 2019 Pavel Ježek, Matematicko-fyzikální fakulta, Univerzita Karlova, Praha</annotation>
+			<info>https://www.youtube.com/watch?v=Ly1gGuozAgo</info>
+			<image>file:///home/wiki/.cache/vlc/art/arturl/c421af56e038d9f9eb894a6daa0c8262/art</image>
+			<duration>5516248</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>
